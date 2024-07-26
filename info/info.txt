@@ -1,0 +1,46 @@
+website:
+https://nen-global.org/EN/index.html
+
+
+1-pages
+2-categry
+3-subcategory
+4-details item 
+nen
+
+
+project
+
+ediucation
+    name project  (tabs)
+
+
+    about
+    https://nendemo.live/projects/upgrade-for-you/
+    program
+    https://www.figma.com/proto/ioj5KHJ511a03eP1cdjpOc/Consultation?type=design&node-id=383-1314&t=dlxy4tOeFxOpMEIi-0&scaling=min-zoom&page-id=0%3A1
+    (card)
+    help
+	    queation
+	    image
+        contacctus
+	    2 input 
+	    phone
+	    image
+	join us
+		description
+		image
+		description
+		image
+		الشروط الاحكام
+		صورة شروط الاحكام
+	arshaef
+about 
+program
+help
+arshaef
+join us
+
+
+
+

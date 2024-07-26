@@ -1,0 +1,2 @@
+<span class="<?php echo e($class??'form-text text-muted'); ?>"><?php echo e(ucfirst(TranslationHelper::translate($name))); ?></span>
+<br><?php /**PATH /home/hatem/Desktop/dashboard-laravel/resources/views/components/admin/form/label-end.blade.php ENDPATH**/ ?>
